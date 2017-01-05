@@ -41,15 +41,15 @@
 
 		<div class='colors' >
 
-			<a class='c-red' data-val='red' href='indexp.php#' ></a>
-			<a class='c-pink' data-val='pink' href='indexp.php#' ></a>
-			<a class='c-orange' data-val='orange' href='indexp.php#' ></a>
-			<a class='c-teal' data-val='teal' href='indexp.php#' ></a>
-			<a class='c-green' data-val='green' href='indexp.php#' ></a>
-			<a class='c-cyan' data-val='cyan' href='indexp.php#' ></a>
-			<a class='c-blue' data-val='blue' href='indexp.php#' ></a>
-			<a class='c-purple' data-val='purple' href='indexp.php#' ></a>
-			<a class='c-indigo' data-val='indigo' href='indexp.php#' ></a>
+			<a class='c-red' data-val='red' href='index.php#' ></a>
+			<a class='c-pink' data-val='pink' href='index.php#' ></a>
+			<a class='c-orange' data-val='orange' href='index.php#' ></a>
+			<a class='c-teal' data-val='teal' href='index.php#' ></a>
+			<a class='c-green' data-val='green' href='index.php#' ></a>
+			<a class='c-cyan' data-val='cyan' href='index.php#' ></a>
+			<a class='c-blue' data-val='blue' href='index.php#' ></a>
+			<a class='c-purple' data-val='purple' href='index.php#' ></a>
+			<a class='c-indigo' data-val='indigo' href='index.php#' ></a>
 
 		</div>
 
@@ -81,7 +81,7 @@
 		<div class='main-content' >
 
 			<!--menu-button-->
-			<a href='indexp.php#' class='menu-btn' >
+			<a href='index.php#' class='menu-btn' >
 				<span class='lines' >
 					<span class='l1' ></span>
 					<span class='l2' ></span>
@@ -96,32 +96,32 @@
 				<nav class='menu-items' >
 					<ul>
 						<li>
-							<a href='indexp.php#home' data-section='home' >
+							<a href='index.php#home' data-section='home' >
 								<i class='ion-ios-home-outline' ></i>
 								<span>Home</span>
 							</a>
 						</li>
 						<li>
-							<a href='indexp.php#about' data-section='about' >
+							<a href='index.php#about' data-section='about' >
 								<i class='ion-ios-person-outline' ></i>
 								<span>About</span>
 							</a>
 						</li>
 						<li>
-							<a href='indexp.php#resume' data-section='resume' >
+							<a href='index.php#resume' data-section='resume' >
 								<i class='ion-ios-book-outline' ></i>
 								<span>Resume</span>
 							</a>
 						</li>
 						<li>
-							<a href='indexp.php#portfolio' data-section='portfolio' >
+							<a href='index.php#portfolio' data-section='portfolio' >
 								<i class='ion-ios-briefcase-outline' ></i>
 								<span>Portfolio</span>
 							</a>
 						</li>
 
 						<li>
-							<a href='indexp.php#contact' data-section='contact' >
+							<a href='index.php#contact' data-section='contact' >
 								<i class='ion-ios-email-outline' ></i>
 								<span>Contact Me</span>
 							</a>
@@ -163,10 +163,10 @@
 
 									<!--intro-buttons-->
 									<!-- <div class='intro-btns' >
-										<a href='indexp.php#' class='btn-material section-toggle' data-section='contact' >
+										<a href='index.php#' class='btn-material section-toggle' data-section='contact' >
 											Hire Me
 										</a>
-										<a href='indexp.php#' class='btn-material btn-secondary' >
+										<a href='index.php#' class='btn-material btn-secondary' >
 											Download Resume
 										</a>
 									</div> -->
@@ -475,35 +475,35 @@
 						<!--portfolio-filters-->
 						<ul class='portfolio-filters' >
 							<li>
-								<a href='indexp.php#' class='active' data-group='all' >
+								<a href='index.php#' class='active' data-group='all' >
 									All
 								</a>
 							</li>
 							<li>
-								<a href='indexp.php#' data-group='react' >
+								<a href='index.php#' data-group='react' >
 									React / Redux
 								</a>
 							</li>
 
 							<li>
-								<a href='indexp.php#' data-group='angular' >
+								<a href='index.php#' data-group='angular' >
 									Angular / Node
 								</a>
 							</li>
 
 							<li>
-								<a href='indexp.php#' data-group='ruby' >
+								<a href='index.php#' data-group='ruby' >
 									Ruby on Rails
 								</a>
 							</li>
 
 							<li>
-								<a href='indexp.php#' data-group='laravel' >
+								<a href='index.php#' data-group='laravel' >
 									Laravel
 								</a>
 							</li>
 							<li>
-								<a href='indexp.php#' data-group='wordpress' >
+								<a href='index.php#' data-group='wordpress' >
 									WordPress
 								</a>
 							</li>
@@ -522,7 +522,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-1' data-mfp-src="#popup-1" class='has-popup view-project' >
+										<a href='index.php#popup-1' data-mfp-src="#popup-1" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -561,7 +561,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-4' data-mfp-src="#popup-4" class='has-popup view-project' >
+										<a href='index.php#popup-4' data-mfp-src="#popup-4" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -601,7 +601,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-11' data-mfp-src="#popup-11" class='has-popup view-project' >
+										<a href='index.php#popup-11' data-mfp-src="#popup-11" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -641,7 +641,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-2' data-mfp-src="#popup-2" class='has-popup view-project' >
+										<a href='index.php#popup-2' data-mfp-src="#popup-2" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -681,7 +681,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-10' data-mfp-src="#popup-10" class='has-popup view-project' >
+										<a href='index.php#popup-10' data-mfp-src="#popup-10" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -726,7 +726,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-3' data-mfp-src="#popup-3" class='has-popup view-project' >
+										<a href='index.php#popup-3' data-mfp-src="#popup-3" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -768,7 +768,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-12' data-mfp-src="#popup-12" class='has-popup view-project' >
+										<a href='index.php#popup-12' data-mfp-src="#popup-12" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -809,7 +809,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-7' data-mfp-src="#popup-7" class='has-popup view-project' >
+										<a href='index.php#popup-7' data-mfp-src="#popup-7" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -847,7 +847,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-8' data-mfp-src="#popup-8" class='has-popup view-project' >
+										<a href='index.php#popup-8' data-mfp-src="#popup-8" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -886,7 +886,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-5' data-mfp-src="#popup-5" class='has-popup view-project' >
+										<a href='index.php#popup-5' data-mfp-src="#popup-5" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -928,7 +928,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-6' data-mfp-src="#popup-6" class='has-popup view-project' >
+										<a href='index.php#popup-6' data-mfp-src="#popup-6" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -969,7 +969,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-13' data-mfp-src="#popup-13" class='has-popup view-project' >
+										<a href='index.php#popup-13' data-mfp-src="#popup-13" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -1009,7 +1009,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-14' data-mfp-src="#popup-14" class='has-popup view-project' >
+										<a href='index.php#popup-14' data-mfp-src="#popup-14" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -1049,7 +1049,7 @@
 									<div class='overlay' >
 
 										<!--view project link-->
-										<a href='indexp.php#popup-9' data-mfp-src="#popup-9" class='has-popup view-project' >
+										<a href='index.php#popup-9' data-mfp-src="#popup-9" class='has-popup view-project' >
 											view project
 										</a>
 
@@ -1413,7 +1413,7 @@
 
 						<div class='posts-more text-center' >
 
-							<a href='indexp.php#' class='btn-material btn-secondary' >
+							<a href='index.php#' class='btn-material btn-secondary' >
 								View More Posts
 							</a>
 
